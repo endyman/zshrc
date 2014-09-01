@@ -1,0 +1,4 @@
+zshrc
+=====
+
+my zshrc 
